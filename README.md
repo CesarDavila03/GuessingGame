@@ -36,4 +36,4 @@ Welcome to the Guessing Game! This is a simple Python project where the player t
 
 <h2>Environments Used </h2>
 
-- <b>macOS: Ventura 13.0</b> (21H2)
+- <b>macOS: Ventura 13.0</b>
