@@ -1,8 +1,7 @@
 <h1>Guessing Game in Python</h1>
 
 <h2>Description</h2>
-Welcome to the Guessing Game! This is a simple Python project where the player tries to guess a randomly generated number within a specified range. It's a fun way to practice Python programming, particularly working with loops, conditionals, and basic input/output operations
-<br />
+<p>Welcome to the Guessing Game! This is a simple Python project where the player tries to guess a randomly generated number within a specified range. It's a fun way to practice Python programming, particularly working with loops, conditionals, and basic input/output operations.</p>
 
 <h2>Features</h2>
 
