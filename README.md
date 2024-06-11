@@ -28,11 +28,11 @@
 - <b>Feedback: Provides feedback to the user about their guesses (too low, too high, correct).</b>
 - <b>Game Loop: Repeats the guessing process until the correct number is guessed and allows replaying.</b>
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>Python</b> 
-- <b>Visual Studio Code</b>
 
 <h2>Environments Used </h2>
 
+- <b>Visual Studio Code</b>
 - <b>macOS: Ventura 13.0</b>
